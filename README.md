@@ -10,8 +10,8 @@ The vertical sample holder was built to replace a previous iteration which consi
 
 
 <p align="center">
-    <p align="left"><img src="https://raw.githubusercontent.com/Swicano/swicano.github.io/master/images/VertSampHoldPID/20141020_210743.jpg" align="left" height="397"/></p>
-    <p align="right"><img src="https://raw.githubusercontent.com/Swicano/swicano.github.io/master/images/VertSampHoldPID/20150108_123323.jpg" alt="hot plate" align="right" height="397"/></p>
+    <p align="left"><img src="https://raw.githubusercontent.com/Swicano/swicano.github.io/master/images/VertSampHoldPID/20141020_210743.jpg" align="left" height="396"/></p>
+    <p align="right"><img src="https://raw.githubusercontent.com/Swicano/swicano.github.io/master/images/VertSampHoldPID/20150108_123323.jpg" alt="hot plate" align="right" height="396"/></p>
 
 <p align="center"> The components of the old vertical sample holder and heater </p>
 </p>
